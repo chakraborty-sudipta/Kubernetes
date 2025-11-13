@@ -5,7 +5,7 @@ A comprehensive list of 50+ hands-on labs and troubleshooting scenarios to help 
 ---
 
 ## 📅 Start Date
-`April 07, 2025`
+`November 14, 2025`
 
 ## 📊 Progress Tracker
 
